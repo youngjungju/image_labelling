@@ -12,8 +12,3 @@ This project covers how to add image labelling in flutter application using goog
 
 [image_picker](https://pub.dev/packages/image_picker)
 	
-##
-
-Watch below [Youtube](https://www.youtube.com/watch?v=PeXtr_5hgC4) video for the code walkthrough,
-
-[![Image_labelling](https://img.youtube.com/vi/PeXtr_5hgC4/0.jpg)](https://www.youtube.com/watch?v=PeXtr_5hgC4)
